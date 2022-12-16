@@ -1,0 +1,18 @@
+.price{
+    font-size: large;
+    color: blue;
+}
+
+.installment{
+    font-size: small;
+}
+
+.btn {
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+.button{
+    text-align: center;
+}
+
